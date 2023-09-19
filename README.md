@@ -1,2 +1,2 @@
 # DAML_Ventas
-##Arquitectura de poryecto MAUI, esta version es la creación dl proyecto MAUI con las tres capas.
+##Arquitectura de proyecto MAUI, esta version es la creación del proyecto MAUI con las tres capas.
